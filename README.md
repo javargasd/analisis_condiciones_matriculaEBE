@@ -1,5 +1,5 @@
 # analisis_condiciones_matriculaEBE
-# Indicador: Porcentaje de locales educativos con pago oportuno de los servicios básicos(SSBB)
+# Analisis de condiciones para implementar un indicador
 segurar el pago oportuno de servicios básicos de los locales educativos de las IIEE de la Educación Básica (EBR, EBE, EBA), Educación Técnico-Productiva y Educación Superior (Tecnológica y Pedagógica), con la finalidad de que se aseguren las condiciones operativas básicas de los locales educativos para la provisión del servicio educativo presencial.
 
 # Organización de la información
