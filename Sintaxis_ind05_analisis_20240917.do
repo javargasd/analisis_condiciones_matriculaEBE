@@ -3,14 +3,14 @@
 *************************************
 *Indicador05: Porcentaje de personas con discapacidad (PCD) identificados en la BIPED de 0 a 20 años que no han culminado la educación básica y que son matriculados en servicios de educación básica.
 *Elaborado por: Javier Vargas Díaz
-*Fecha: 06/09/2024
-
 
 *0. Definición de directorio de trabajo
 ***************************************
 clear all
 set more off
 global dir "F:\informacion\FED\2. Diseño e implementacion\2. 2024-2025\2024-2025\Definición de metas\diseño\Data\variables"
+*global dir "E:\informacion\FED\2. Diseño e implementacion\2. 2024-2025\2024-2025\Definición de metas\diseño\Data\variables"
+
 	global codigo		"$dir\codigo"
 	global input		"$dir\input"
 	global temp			"$dir\temp"
@@ -18,7 +18,6 @@ global dir "F:\informacion\FED\2. Diseño e implementacion\2. 2024-2025\2024-202
 	global script		"$dir\script"
 	global consolidado	"$dir\consolidado" 
 	global analisis_ebe	"$dir\analisis_ebe"
-
 
 *1. OFERTA: N° de vacantes por UBIGEO (varias fuentes)
 **********************************************************
