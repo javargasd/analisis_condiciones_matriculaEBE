@@ -1,6 +1,6 @@
 # **Análisis de Oferta y Demanda en la Educación Básica Especial (EBE)**  
 
-Este proyecto se enfoca en evaluar la capacidad del sistema educativo para atender a estudiantes con necesidades educativas especiales asociadas a discapacidades, identificando brechas entre la oferta y la demanda en la modalidad de Educación Básica Especial (EBE).  
+Este proyecto se enfoca en evaluar la capacidad del sistema educativo peruano para atender a estudiantes con necesidades educativas especiales asociadas a discapacidades, identificando brechas entre la oferta y la demanda en la modalidad de Educación Básica Especial (EBE).  
 
 ## **Objetivos Principales**  
 - **Identificar Brechas**: Analizar la relación entre la oferta de vacantes, servicios especializados y la población estudiantil con discapacidad.  
@@ -8,12 +8,20 @@ Este proyecto se enfoca en evaluar la capacidad del sistema educativo para atend
 - **Promover la Inclusión**: Generar estrategias que garanticen accesibilidad, equidad y calidad educativa para estudiantes con discapacidad.  
 
 ## **Componentes del Análisis**  
-1. **Oferta Educativa**: Infraestructura accesible, recursos humanos especializados y servicios como SAANEE.  
-2. **Demanda Educativa**: Población estudiantil objetivo registrada, tipo y grado de discapacidad, y necesidades específicas.  
+1. **Oferta de Plazas Educativas**:  
+   - **Instituciones Potenciales**: IE que han atendido previamente a estudiantes con discapacidad y que, bajo este análisis, tienen la capacidad de seguir haciéndolo.  
+   - **Disponibilidad de Plazas**: Número de vacantes habilitadas para estudiantes con discapacidad en cada IE.  
+   - **Distribución Geográfica**: Ubicación de las IE en relación con la población estudiantil objetivo.  
+
+2. **Demanda de Plazas Educativas**:  
+   - **Población Objetivo**: Estudiantes entre 0 y 20 años con discapacidad registrados en la BIPED y que requieren atención educativa.  
+   - **Características Específicas**: Necesidades derivadas del grado y tipo de discapacidad (leve, moderada, severa).  
+   - **Necesidades de Cobertura**: Número de estudiantes en espera de una plaza educativa en su área geográfica.  
+
 3. **Indicadores Clave**:  
-   - Proporción de vacantes por estudiante.  
-   - Porcentaje de instituciones accesibles.  
-   - Ratio estudiantes/docentes especializados.  
+   - **Proporción de Vacantes por Estudiante**: Relación entre la oferta total de vacantes disponibles y la población objetivo.  
+   - **Cobertura de Instituciones Potenciales**: Porcentaje de IE identificadas que ofrecen plazas para estudiantes con discapacidad.  
+   - **Déficit de Plazas**: Brecha entre la demanda estimada de plazas y las vacantes ofertadas por las IE en cada región.  
 
 ## **Impacto**  
 Este análisis busca contribuir al diseño de políticas educativas inclusivas que respondan a las necesidades reales de los estudiantes con discapacidad, garantizando su derecho a una educación de calidad en condiciones de equidad y accesibilidad.  
