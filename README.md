@@ -1,4 +1,4 @@
-# **Análisis de Oferta y Demanda en la Educación Básica Especial (EBE)**  
+# **Reporte Estadístico: Análisis de oferta y demanda para implementar el indicador de matrícula de personas con discapacidad en servicios educativos de EBA, EBE y EBR**  
 
 Este proyecto se enfoca en evaluar la capacidad del sistema educativo peruano para atender a estudiantes con necesidades educativas especiales asociadas a discapacidades, identificando brechas entre la oferta y la demanda en la modalidad de Educación Básica Especial (EBE).  
 
