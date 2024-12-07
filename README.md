@@ -1,6 +1,4 @@
-# analisis_condiciones_matriculaEBE
-# Analisis de condiciones para implementar un indicador
-segurar el pago oportuno de servicios básicos de los locales educativos de las IIEE de la Educación Básica (EBR, EBE, EBA), Educación Técnico-Productiva y Educación Superior (Tecnológica y Pedagógica), con la finalidad de que se aseguren las condiciones operativas básicas de los locales educativos para la provisión del servicio educativo presencial.
+# Analisis de oferta y demanda para atender estudiantes de la educación básica
 
 # Organización de la información
 Las bases de datos que se encuentra disponibles en este repositorio corresponden al Modulo Complementario de SIGA en el periodo 2019-2024 con corte al 01/03/2024.
