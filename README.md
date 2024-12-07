@@ -8,17 +8,17 @@ Este proyecto se enfoca en evaluar la capacidad del sistema educativo peruano pa
 - **Promover la Inclusión**: Generar estrategias que garanticen accesibilidad, equidad y calidad educativa para estudiantes con discapacidad.  
 
 ### **II. Componentes del Análisis**  
-1. **Oferta de Plazas Educativas**:  
+2.1. **Oferta de Plazas Educativas**:  
    - **Instituciones Potenciales**: IE que han atendido previamente a estudiantes con discapacidad y que, bajo este análisis, tienen la capacidad de seguir haciéndolo.  
    - **Disponibilidad de Plazas**: Número de vacantes habilitadas para estudiantes con discapacidad en cada IE.  
    - **Distribución Geográfica**: Ubicación de las IE en relación con la población estudiantil objetivo.  
 
-2. **Demanda de Plazas Educativas**:  
+2.2. **Demanda de Plazas Educativas**:  
    - **Población Objetivo**: Estudiantes entre 0 y 20 años con discapacidad registrados en la BIPED y que requieren atención educativa.  
    - **Características Específicas**: Necesidades derivadas del grado y tipo de discapacidad (leve, moderada, severa).  
    - **Necesidades de Cobertura**: Número de estudiantes en espera de una plaza educativa en su área geográfica.  
 
-3. **Indicadores Clave**:  
+2.3. **Indicadores Clave**:  
    - **Proporción de Vacantes por Estudiante**: Relación entre la oferta total de vacantes disponibles y la población objetivo.  
    - **Cobertura de Instituciones Potenciales**: Porcentaje de IE identificadas que ofrecen plazas para estudiantes con discapacidad.  
    - **Déficit de Plazas**: Brecha entre la demanda estimada de plazas y las vacantes ofertadas por las IE en cada región.  
