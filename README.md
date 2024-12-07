@@ -46,7 +46,7 @@ Las bases de datos disponibles en este repositorio corresponden al Módulo Compl
 │
 └── Reports                <- Análisis generado (HTML, PDF, LaTeX, etc.).
        └── figuras         <- Gráficos y figuras generados usados en los reports.         
-
+```
 ### **IV. Impacto**  
 Este análisis busca contribuir al diseño de políticas educativas inclusivas que respondan a las necesidades reales de los estudiantes con discapacidad, garantizando su derecho a una educación de calidad en condiciones de equidad y accesibilidad.  
 
